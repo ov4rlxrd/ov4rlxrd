@@ -25,6 +25,7 @@
 👨‍💻: Technologies that I use:</br></br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40">&nbsp;
 <!---
 ov4rlxrd/ov4rlxrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
