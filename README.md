@@ -14,7 +14,7 @@
 
 - 🔍: I try to develop my pet projects, learn something new.
 
-- 👨‍🎓: I study at SPbPU in St. Petersburg, 2st year Informatics and Computer Engineering
+- 👨‍🎓: I study at SPbPU in St. Petersburg, 3rd year Informatics and Computer Engineering
 
 - :zap: In my free time, I write telegram bots on aiogram and solve problems on LeetCode.
 
